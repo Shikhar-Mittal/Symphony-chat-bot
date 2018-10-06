@@ -1,0 +1,20 @@
+{
+    "sessionAuthHost": "metlife-api.symphony.com",
+    "sessionAuthPort": 8444,
+    "keyAuthHost": "metlife-api.symphony.com",
+    "keyAuthPort": 8444,
+    "podHost": "metlife.symphony.com",
+    "podPort": 443,
+    "agentHost": "metlife.symphony.com",
+    "agentPort": 443,
+    "botCertPath": "C:/MyBotAPP/certificates/",
+    "botCertName": "bot.tradequery",
+    "botCertPassword": "metlife1",
+    "botEmailAddress": "bot.tradequery@metlife.com",
+    "appCertPath": "",
+    "appCertName": "",
+    "appCertPassword": "",  
+    "authTokenRefreshPeriod": "30",
+    "truststorePath": "C:/MyBotAPP/certificates/all_symphony_certs_truststore",
+    "truststorePassword": "changeit"
+}
